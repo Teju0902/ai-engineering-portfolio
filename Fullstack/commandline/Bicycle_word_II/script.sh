@@ -1,0 +1,48 @@
+# 1
+pwd
+
+# 2
+ls
+
+# 3
+cd freight
+
+# 4
+ls
+
+# 5
+cd porteur
+
+# 6
+cd ../..
+ls
+
+# 7
+cd mountain/downhill
+
+# 8
+touch dirt.txt
+
+# 9
+touch mud.txt
+
+# 10
+ls
+
+# 11
+mkdir safety
+
+# 12
+cd ../..
+
+# 13
+ls
+
+# 14
+mkdir bmx
+
+# 15
+touch bmx/tricks.txt
+
+# 16
+ls
